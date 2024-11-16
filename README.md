@@ -4,7 +4,7 @@
 
 ![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=name-All4n&show_icons=true&theme=dracula)
 
-## Linguagem que mais utilizo
+## Linguagem que mais utilizo no momento
 <div style="display: inline_block"><br/>
     <img align="center" alt="Phython" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
 </div><br/>
